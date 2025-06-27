@@ -397,3 +397,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PianoApp(root)
     root.mainloop()
+
+'''комментарий для нового коммита'''
